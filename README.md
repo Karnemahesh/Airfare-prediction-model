@@ -34,6 +34,7 @@
 **Airfare-Prediction** is an end‑to‑end solution that predicts flight airfares using machine learning while offering an interactive web interface. The system includes advanced data exploration and feature engineering, multiple model building, and REST API endpoints via FastAPI. An intuitive Streamlit application allows users to input flight details and view predictions in real time. The entire solution is containerized with Docker and deployed on Azure for scalable, production‑grade operations.
 
 
+[VIEW LIVE](https://airfarepredictionmodel-opyyzu3fy3gabrtsxgodsr.streamlit.app)
 
 ## Technology Stack
 
@@ -79,7 +80,7 @@
 - For local environment using pip:
   ```sh
   pip install -r requirements.txt
-(Alternatively) Create a Conda environment using conda_dependencies.yml.
+
 
 
 **Configure Azure Resources:**
