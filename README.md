@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit‑Learn">
   </a>
 
-  <a href="https://airfarepredictionmodel-opyyzu3fy3gabrtsxgodsr.streamlit.app/">
+  <a href="https://airfare-prediction-model-kb9ep5vhcnfwayve2beg3m.streamlit.app/">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
   </a>
 </div>
