@@ -1,5 +1,8 @@
-numpy
-pandas
+streamlit==1.32.2
+pydeck==0.8.0
+altair==4.2.2
+pandas==2.0.3
+numpy==1.24.4
 matplotlib
 scikit-learn
 seaborn
@@ -11,4 +14,3 @@ python-multipart
 azureml-core
 azureml-contrib-services
 statsmodels
-altair==4.2.2
